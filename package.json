@@ -1,6 +1,6 @@
 {
   "name": "website-route-scanner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scan routes on your website.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/caotrongtin99/route-scanner.git"
   },
-  "keywords": [],
+  "keywords": ["router-scan", "scan", "route", "url", "detect", "website-route"],
   "author": "",
   "license": "ISC",
   "bugs": {
